@@ -4686,7 +4686,7 @@ plt.grid(True)
 
 ## Nice, clean paths. But with several overlaps.
 
-### In a real system, it should be analysed not only the cost (distance), but also the number of points in the route. Each one introduces a delay, as the driver has to park, walk, wait the customer, etc.
+In a real system, it should be analysed not only the cost (distance), but also the number of points in the route. Each one introduces a delay, as the driver has to park, walk, wait the customer, etc.
 
 # Scenario: farthest depot, several vans, KMeans clustering
 
