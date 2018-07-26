@@ -4828,4 +4828,9 @@ plt.grid(True)
 
 ## Very cool subsections! Aproximately the same number of deliveries in each route!
 
-### But some routes are way longer than others. Some vans maybe will have to do an extra hour or two.
+But some routes are way longer than others. Some vans maybe will have to do an extra hour or two.
+
+---
+
+## That's it!
+### Thank you for getting this far, hope you liked! :)
