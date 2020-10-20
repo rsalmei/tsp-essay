@@ -4,7 +4,7 @@ A fun study of some heuristics for the Travelling Salesman Problem.
 
 ---
 I've always found the Travelling salesman problem particularly interesting.
-After studying a few papers on the subject (in this repository too), mainly the superb `Clarke & Wright's Savings Algorithm` from 1997, I fell like trying a few techniques.
+After studying a few papers on the subject (in this repository too), mainly the superb `Clarke & Wright's Savings Algorithm` from 1997, I felt like trying a few techniques.
 
 To see the original `ipynb` format (probably better): [https://github.com/rsalmei/tsp-essay/blob/master/tsp_essay.ipynb](https://github.com/rsalmei/tsp-essay/blob/master/tsp_essay.ipynb)
 
